@@ -319,10 +319,6 @@ s
 - TON Cells
 - Smart Contracts
 
-Статус
-
-Experimental / Proof of Concept
-
 Проект представляет собой рабочее экспериментальное ядро виртуального процессора, способное выполнять RISC-V машинный код непосредственно внутри TON smart contract.
 
 Текущее ядро включает регистры "x0–x31", ALU, memory subsystem, conditional branches, jumps, function calls, program loading и сохранение состояния между транзакциями.
